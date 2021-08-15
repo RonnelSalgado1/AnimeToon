@@ -166,6 +166,27 @@ body{
     margin: 20px;
 }
 
+.Genres h3{
+    padding: 0px;
+    margin: 0px;
+}
+
+.Genres ul{
+    padding: 5px;
+    margin: 1px;
+}
+.Genres li{
+    margin: 0px;
+    list-style: none;
+}
+
+.Genres a{
+    margin: 0px;
+    padding: 0px;
+    text-decoration: none;
+}
+
+
 /* .wrapper-genres > div{
     background-color: #333;
     color: white;
